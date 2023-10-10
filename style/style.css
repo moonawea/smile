@@ -1,0 +1,87 @@
+.wrapper {
+    width: 700px;
+    height: 700px;
+    border-radius: 50%;
+    background-color: yellow;
+    position: relative;
+}
+
+.first {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    background-color: black;
+    border-radius: 50%;
+    left: 153px;
+    top: 190px;
+}
+
+.second {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    background-color: black;
+    border-radius: 50%;
+    left: 410px;
+    top: 190px;
+}
+
+.third {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: blue;
+    top: 375px;
+    left: 190px;
+}
+
+.fourth {
+    position: absolute;
+    width: 320px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: yellow;
+    top: 351px;
+    left: 178px;
+}
+
+.fifth {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    left: 185px;
+    top: 240px;
+    background-color: white;
+}
+
+.sixth {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    left: 443px;
+    top: 240px;
+    background-color: white;
+}
+
+.sevens {
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    background-color: red;
+    border-radius: 220px 54px 77px 30px;
+    left: 30px;
+    top: 645px;
+}
+
+.eighth {
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    background-color: red;
+    border-radius: 54px 220px 30px 77px;
+    left: 380px;
+    top: 645px;
+}
